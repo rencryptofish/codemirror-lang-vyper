@@ -1,11 +1,3 @@
-# codemirror-lang-vyper
-A CodeMirror extension that provides Vyper syntax highlighting and language support. This is a work in progress.
-
-![Screenshot](/public/cm-vyper-support.png)
-
-## Usage
-
-```ts
 import { basicSetup } from 'codemirror';
 import { EditorView, keymap } from '@codemirror/view';
 import { EditorState } from '@codemirror/state';
@@ -31,4 +23,3 @@ fetch('/example.vy')
     .catch(error => {
         console.error("Error fetching the Vyper file:", error);
     });
-```
