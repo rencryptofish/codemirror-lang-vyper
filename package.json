@@ -1,5 +1,5 @@
 {
-    "name": "@replit/codemirror-lang-vyper",
+    "name": "@rencryptofish/codemirror-lang-vyper",
     "description": "Vyper language support for CM6",
     "version": "6.0.0",
     "author": {
